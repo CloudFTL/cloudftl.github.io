@@ -12,3 +12,19 @@ Section: Themes
 Description: ⚠️Copy This Link To Manually Install This Theme With Filza https://github.com/CloudFTL/cloudftl.github.io/raw/master/NoOldCydia.deb⚠️
 Author: CloudFTL <cloudftl@gmail.com>
 Name: NoOldCydia
+
+Package: Package: com.yourepo.cloudftl.safaricolors
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CloudFTL <cloudftl@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: /PurpleSafari
+Size: 394492
+MD5sum: 7c502155f8f64f828113cd07281b96b1
+SHA1: 484cedb727f84c9fb15183ca26abcc57f02b5d06
+SHA256: 8448eaffc0390e020155db1aecf500f41444f9b06448c6d521f727933fdd271a
+Section: Themes
+Description: ⚠️Copy This Link To Manually Install This Theme With Filza https://github.com/CloudFTL/cloudftl.github.io/raw/master/PurpleSafari.deb⚠️
+Author: CloudFTL <cloudftl@gmail.com>
+Name: PurpleSafari
+Version: 1.0
