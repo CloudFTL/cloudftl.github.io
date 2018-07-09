@@ -1,0 +1,14 @@
+Package: com.yourepo.cloudftl.nooldcydia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CloudFTL <cloudftl@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: /NoOldCydia
+Size: 6740
+MD5sum: f60676c00836ec7d45026f73aaf498ff
+SHA1: 354c96d0c7bb96ecb92b364d416f2bf2b472060b
+SHA256: 7b1783abfa25fc3cdb271084ebbf49ab3a5867c1455af03704b43bcef738ae40
+Section: Themes
+Description: A Modern Cydia Theme
+Author: CloudFTL <cloudftl@gmail.com>
+Name: NoOldCydia
