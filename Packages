@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CloudFTL <cloudftl@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: /NoOldCydia
+Filename: ./com.yourepo.cloudftl.nooldcydia_1.0_iphoneos-arm
 Size: 6740
 MD5sum: f60676c00836ec7d45026f73aaf498ff
 SHA1: 354c96d0c7bb96ecb92b364d416f2bf2b472060b
@@ -18,7 +18,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CloudFTL <cloudftl@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: /PurpleSafari
+Filename: ./com.yourepo.cloudftl.safaricolors_1.0_iphoneos-arm
 Size: 394492
 MD5sum: 7c502155f8f64f828113cd07281b96b1
 SHA1: 484cedb727f84c9fb15183ca26abcc57f02b5d06
