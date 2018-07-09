@@ -1,4 +1,4 @@
-Package: com.yourepo.cloudftl.nooldcydia
+Package: com.yourepo.cloudftl.nooldycida_1.0_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CloudFTL <cloudftl@gmail.com>
@@ -13,7 +13,7 @@ Description: ⚠️Copy This Link To Manually Install This Theme With Filza http
 Author: CloudFTL <cloudftl@gmail.com>
 Name: NoOldCydia
 
-Package: Package: com.yourepo.cloudftl.safaricolors
+Package: com.yourepo.cloudftl.safaricolors_1.0_iphoneos-arm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CloudFTL <cloudftl@gmail.com>
