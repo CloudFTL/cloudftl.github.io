@@ -5,9 +5,9 @@ Maintainer: CloudFTL <cloudftl@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.yourepo.cloudftl.nooldcydia_1.1_iphoneos-arm.deb
 Size: 6740
-MD5sum: f60676c00836ec7d45026f73aaf498ff
-SHA1: 354c96d0c7bb96ecb92b364d416f2bf2b472060b
-SHA256: 7b1783abfa25fc3cdb271084ebbf49ab3a5867c1455af03704b43bcef738ae40
+MD5sum: 3578fdd25abe46572ffe3dcca741ca8c
+SHA1: 66d1bf5fe9a18622f9f8d733095e8a1bc85edb81
+SHA256: 06597d43f6b79dff0ad464b806cd57116b652ff5369b85db623771de217a3734
 Section: Themes
 Description: Copy This Link To Manually Install This Theme With Filza https://github.com/CloudFTL/cloudftl.github.io/raw/master/com.yourepo.cloudftl.nooldcydia.deb 
 Author: CloudFTL <cloudftl@gmail.com>
@@ -20,9 +20,9 @@ Maintainer: CloudFTL <cloudftl@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.yourepo.cloudftl.safaricolors_1.1_iphoneos-arm.deb
 Size: 394492
-MD5sum: 7c502155f8f64f828113cd07281b96b1
-SHA1: 484cedb727f84c9fb15183ca26abcc57f02b5d06
-SHA256: 8448eaffc0390e020155db1aecf500f41444f9b06448c6d521f727933fdd271a
+MD5sum: 726bc3b562ab8ec7402459154cbefde5
+SHA1: a653cbbd142948948c002ff2ac9b19b69a7aa965
+SHA256: 6d36d1b137cfd4d7b3d91a7c25c3086438c23894de02b5525f9cc58f285e4861
 Section: Themes
 Description: Copy This Link To Manually Install This Theme With Filzahttps://github.com/CloudFTL/cloudftl.github.io/raw/master/com.yourepo.cloudftl.safaricolors.deb
 Author: CloudFTL <cloudftl@gmail.com>
