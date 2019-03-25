@@ -1,17 +1,13 @@
-Package: com.yourepo.cloudftl.nooldcydia
+Package: com.cloudftl.fudock
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: CloudFTL <cloudftl@protonmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/
-com.cloudftl.fudock
+Filename: ./debs/com.cloudftl.fudock_0.0.1-1+debug_iphoneos-arm.deb
 Size: 6752 
-MD5sum:
-7238370c7d394e02f9ee6fa8d23c48b7
-SHA1:
-4c276bb361c503b7b3804c20f06fd258825dc027
-SHA256:
-2cf52b379e57e75147750a5689556e49291a770fe44fb4f6150934d5a0f19ab8
+MD5sum: 7238370c7d394e02f9ee6fa8d23c48b7
+SHA1:4c276bb361c503b7b3804c20f06fd258825dc027
+SHA256: 2cf52b379e57e75147750a5689556e49291a770fe44fb4f6150934d5a0f19ab8
 Section: Tweaks
 Description: Removes That Ugly Dock Background 
 Author: CloudFTL <cloudftl@protonmail.com>
