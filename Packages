@@ -1,18 +1,3 @@
-Package: com.cloudftl.fudock
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: CloudFTL <cloudftl@protonmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.cloudftl.fudock_0.0.1-1+debug_iphoneos-arm.deb
-Size: 6752 
-MD5sum: 7238370c7d394e02f9ee6fa8d23c48b7
-SHA1:4c276bb361c503b7b3804c20f06fd258825dc027
-SHA256: 2cf52b379e57e75147750a5689556e49291a770fe44fb4f6150934d5a0f19ab8
-Section: Tweaks
-Description: Removes That Ugly Dock Background 
-Author: CloudFTL <cloudftl@protonmail.com>
-Name: fudock 
-
 Package: com.yourepo.cloudftl.nooldcydia
 Version: 1.1
 Architecture: iphoneos-arm
@@ -59,3 +44,34 @@ Description: Get The Sileo icon for cydia
 Author: CloudFTL <cloudftl@gmail.com>
 Name: SileoIcon
 Version: 1.0
+
+Package: com.yourepo.cloudftl.nofoldertitlebg
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CloudFTL <cloudftl@protonmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.cloudftl.nofoldertitlebg_0.0.0_iphoneos-arm.deb
+Size: 9916
+MD5sum: 4E331C6606619320B799CFF7CCB58F1B
+SHA1: 9567336C6C961AE1BE703C6F6531332373EDAF04
+SHA256: 0E7C62E8E2E41300F9DF764CE40B33C2CDB8DD4945C077D4D55B6073EA1476CF
+Section: Tweaks
+Description: Removes The Background From The Folder Titles
+Author: CloudFTL <cloudftl@protonmail.com>
+Name: nofoldertitlebg
+
+Package: com.cloudftl.fudock
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CloudFTL <cloudftl@protonmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.cloudftl.nofoldertitlebg_0.0.0_iphoneos-arm.deb
+Size: 9916
+MD5sum: 4E331C6606619320B799CFF7CCB58F1B
+SHA1: 9567336C6C961AE1BE703C6F6531332373EDAF04
+SHA256: 0E7C62E8E2E41300F9DF764CE40B33C2CDB8DD4945C077D4D55B6073EA1476CF
+Section: Tweaks
+Description: Removes The Background From The Folder Titles
+Author: CloudFTL <cloudftl@protonmail.com>
+Name: nofoldertitlebg
+
