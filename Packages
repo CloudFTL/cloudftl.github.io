@@ -4,12 +4,12 @@ Architecture: iphoneos-arm
 Maintainer: CloudFTL <cloudftl@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.yourepo.cloudftl.nooldcydia_1.1_iphoneos-arm.deb
-Size: 6752 
+Size: 6752
 MD5sum: 3578fdd25abe46572ffe3dcca741ca8c
 SHA1: 66d1bf5fe9a18622f9f8d733095e8a1bc85edb81
 SHA256: 06597d43f6b79dff0ad464b806cd57116b652ff5369b85db623771de217a3734
 Section: Themes
-Description: A Modern Cydia icon 
+Description: A Modern Cydia icon
 Author: CloudFTL <cloudftl@gmail.com>
 Name: NoOldCydia
 
@@ -40,7 +40,7 @@ MD5sum: ed610dbf09a7908992f0c900a4f744fc
 SHA1: 6f143278f12c47896d6fd559257622a70a7143ec
 SHA256: 11ecc8014e7ede55007318654e6865d7a5aba6e466f34d171af58d670e5d83a5
 Section: Themes
-Description: Get The Sileo icon for cydia 
+Description: Get The Sileo icon for cydia
 Author: CloudFTL <cloudftl@gmail.com>
 Name: SileoIcon
 Version: 1.0
@@ -75,3 +75,16 @@ Description: Removes The Background From The Folder Titles
 Author: CloudFTL <cloudftl@protonmail.com>
 Name: nofoldertitlebg
 
+Package: com.clouddev.redbark
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CloudFTL <cloudftl@protonmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.clouddev.redbark_0.0.1-1+debug_iphoneos-arm.deb
+MD5sum: ebbba3a05c25c0c4f59015fd0f3a512a
+SHA1: 3f42f98521abe73be210aaf767722dab141264f2
+SHA256: 307d72f445922411c5a05bc5545ff5f926dcbded013820043c00f5a4f1f65f81cc86f9cc5d3fdee4fb542ebf630c98368e0b5c045773e0975edf4bc7a8b51c1d
+Section: Tweaks
+Description: BARK By Easy z but red
+Author: CloudFTL <cloudftl@protonmail.com>
+Name: Redboard
